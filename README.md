@@ -1,9 +1,9 @@
 # Adolescent Health Care Maintenance
-
+![image](https://github.com/eleventh19/Adolescent_Health_Care_Maintenance/assets/595464/ae34f59e-ee0b-40df-bdcd-57b30e9702e4)
 
 ## Comprehensive Health Assessment
 
-Adolescent health care maintenance visits are more than just a physical exam. Your doctor will take a comprehensive approach to your well-being, including assessing your physical, emotional, and social health. They'll check your growth and development, screen for potential health issues, and offer guidance on staying healthy.
+Adolescent health care maintenance visits are more than just a physical exam. Your doctor will take a comprehensive approach to your well-being, including assessing your **physical**, **emotional**, and **social health**. They'll check your growth and development, screen for potential health issues, and offer guidance on staying healthy.
 
 
 ### Sexual and reproductive health:
